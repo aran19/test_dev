@@ -1,9 +1,6 @@
 test_dev
 ========
-B
-A
 
-ddaa
-
+test
 
 基幹システム
